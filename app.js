@@ -1,7 +1,7 @@
 const heading = document.getElementsByTagName('h1')[0];
 const catsContainer = document.getElementById('container');
 
-heading.innerText = 'Kevin Pihlak ja kassid';
+heading.innerText = 'Gen ja kassid';
 
 fetch('https://catfact.ninja/breeds?limit=100')
 .then(res => res.json())
