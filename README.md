@@ -1,4 +1,4 @@
-# tak22-hindamine
+# tak22-hindamine .
 
 **For this assignment, it is allowed to use Google and AI tools**
 
